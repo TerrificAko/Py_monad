@@ -1,0 +1,4 @@
+# 代理IP池配置
+proxy_pools:
+  - type: socks5
+    servers: []
